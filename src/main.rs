@@ -2,7 +2,7 @@ mod task;
 mod utils;
 
 use std::io;
-use task::{Task, TaskList};
+use task::TaskList;
 
 fn main() {
     println!("🦀 Welcome to Abiloye's Rust Task Manager 🦀");

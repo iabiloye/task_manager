@@ -1,32 +1,41 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As part of my growth as a software engineer, I am focusing on learning new programming languages, understanding different syntax styles, and improving my ability to build functional, real-world tools. This project allowed me to explore the Rust programming language and strengthen my skills in writing efficient, safe, and structured code.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
+For this project, I created a simple command-line Task Manager in Rust. The software allows users to add tasks, view all stored tasks, and mark them as completed. It demonstrates Rust concepts such as modules, structs, methods, input handling, ownership rules, and clean separation of program logic.
 
-{Describe your purpose for writing this software.}
+My purpose for writing this software was to deepen my understanding of Rust’s unique features especially memory safety, module organization, and its strict but powerful compiler. Building a small but meaningful application helped me better understand how Rust handles user input, mutability, and modular code structure.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Task Manager with Rust](https://youtu.be/DF0H0OdjJv4)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Development Environment: 
+To develop this software, I used:
+- Visual Studio Code (VS Code) as my main editor
+- Rust Analyzer extension for code suggestions and debugging
+- Cargo (Rust’s build system and package manager) to manage the project and run the program
+- Windows 10 terminal for running the command-line application
+- Visual Studio Build Tools for C++
 
-{Describe the programming language that you used and any libraries.}
+The programming language used is Rust, and the project uses only the standard library. Core concepts used include modules, structs, enums, methods, vectors, and standard input/output.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+- [Visual Studio Build Tools for C++](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+- [Rust installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
+- [Rust Example](https://doc.rust-lang.org/rust-by-example/)
+- [The Rust Standard Library](https://doc.rust-lang.org/std/)
+- [Rust in Visual Studio Code](https://code.visualstudio.com/docs/languages/rust)
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+There are several features and improvements I plan to add:
 
-- Item 1
-- Item 2
-- Item 3
+- Ability to delete tasks
+- Save and load tasks using a local file
+- Add task editing functionality
+- Improve error handling for invalid input
+- Add colors or formatting to the command-line output for a better user experience
