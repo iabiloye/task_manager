@@ -38,4 +38,4 @@ There are several features and improvements I plan to add:
 - Save and load tasks using a local file
 - Add task editing functionality
 - Improve error handling for invalid input
-- Add colors or formatting to the command-line output for a better user experience
+- Add colors or formatting to the command-line output for a better user experience.
